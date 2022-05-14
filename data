@@ -1,0 +1,59 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "\"Player Like Jadeja Should Focus On His Cricket\": Ravi Shastri Says This Player Should Have Become C.. - NDTV Sports",
+      "description": "IPL 2022: Ravindra Jadeja was appointed CSK captain after MS Dhoni stepped down from the position but former India coach Ravi Shastri said that \"a player like Jadeja should focus on his cricket\".",
+      "url": "https://sports.ndtv.com/cricket/player-like-jadeja-should-focus-on-his-cricket-ravi-shastri-says-this-player-should-have-become-csk-captain-after-ms-dhoni-2877000",
+      "urlToImage": "https://c.ndtvimg.com/2022-04/h0g8gf78_ms-dhoni-ravindra-jadeja-bcciipl_625x300_11_April_22.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2022-04-11T04:22:59Z",
+      "content": "Chennai Super Kings have endured a torrid start to IPL 2022 season, having lost all four of their matches so far this season. Without a single point in IPL 2022 season, the defending IPL champions ar… [+2033 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hindustan Times"
+      },
+      "author": "HT Sports Desk",
+      "title": "Who is Kuldeep Sen, the RR bowler who defended 15 runs vs Stoinis in final over - Hindustan Times",
+      "description": "For young Kuldeep Sen, he had nothing to lose in that over. But a much more to gain. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/ipl-2022-who-is-kuldeep-sen-the-rajasthan-royals-bowler-who-defended-15-runs-against-marcus-stoinis-in-final-over-vs-lucknow-super-giants-101649644983529.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2022/04/11/1600x900/ANI-20220410258-0_1649644982763_1649644993746.jpg",
+      "publishedAt": "2022-04-11T03:14:15Z",
+      "content": "It is never easy to defend a total at the Wankhede Stadium. In all four games played at the venue in 2022 Indian Premier League (IPL), teams batting first have lost the match. And then when you have … [+2083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cricketaddictor.com"
+      },
+      "author": "More by Vicky Singh",
+      "title": "SRH vs GT Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update- Tata IPL 2022 - Cricket Addictor",
+      "description": "SRH vs GT Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update- Tata IPL 2022 SRH vs GT Dream11 Prediction 2022 Today Match",
+      "url": "https://cricketaddictor.com/fantasy-cricket/srh-vs-gt-dream11-prediction-fantasy-cricket-tips-dream11-team-playing-xi-pitch-report-injury-update-tata-ipl-2022/",
+      "urlToImage": "https://cricketaddictor.com/wp-content/uploads/2022/04/2-9-1.png",
+      "publishedAt": "2022-04-10T22:54:14Z",
+      "content": "SRH vs GT Dream11 Prediction, Fantasy Cricket Tips, Dream11 Team, Playing XI, Pitch Report, Injury Update of Tata IPL 2022 match between Sunrisers Hyderabad and Gujarat Titans. They will play against… [+5243 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "ANI",
+      "title": "IPL 2022: RCB takes a dig after Virat Kohli's contentious LBW dismissal against Mumbai Indians - Times of India",
+      "description": "Cricket News: After batter Virat Kohli faced a contentious LBW dismissal during the clash against Mumbai Indians, Royal Challengers Bangalore took a dig at the deci",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2022-rcb-takes-dig-after-virat-kohlis-contentious-lbw-dismissal-against-mumbai-indians/articleshow/90761341.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-90761387,width-1070,height-580,imgsize-49180,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2022-04-10T10:40:00Z",
+      "content": "Explained: LBW rules and the controversial umpire's call in DRSWhat we see often is an on-field umpiring ruling a batter not-out on LBW and then replays showing that the ball would have indeed gone o… [+120 chars]"
+    }
+  ]
+}
+
